@@ -1,0 +1,97 @@
+// CMC File
+//  Game Title:  Star Wars Squadrons
+//  written  by:  Prepper Jo
+
+////////////////////////
+// Combat
+
+Boost SPC
+Drift LSHF
+Fire-Left-Aux E 
+Fire-Right-Aux Q 
+Fire-Left-Aux HOLD LCTL E
+Fire-Right-Aux HOLD LCTL Q
+
+Counter-Measure R
+
+Power-Balanced           4
+Power-To-Shields         3
+Power-To-Weapons         2
+Power-To-Engine          1
+Energy-To-Shield         C
+
+Maximize-Engine          HOLD LCTL 1
+Maximize-Weapon          HOLD LCTL 2
+Maximize-Shields         HOLD LCTL 3
+
+Comvert-to-Engines       O
+Comvert-to-Weapon        P
+Comvert-to-Shields       C
+
+Shield-To-Front          U 
+Shield-To-Back           M 
+Shield-Balanced          J
+
+
+
+/////////////////
+// View
+
+View-Up                 KP8
+View-Down               KP5
+View-Left               KP4
+View-Right              KP6
+
+Free-Look L
+
+
+
+/////////////////
+// Targeting
+
+Target-Ahead            T 
+Target-All-Enemies      F9
+Target-Enemy-Squadron   F10
+Target-Enemy-AI         F11
+Target-Ship-Systems     F12
+Target-All-Alies        F5    
+Target-My-Squadron      F6
+Target-Targets-Attacker F7
+Target-Last-Attackers   F8
+Target-Objectives       F4
+Target-Missles          F3
+Target-My-Attacker      G
+Target-Next             F 
+
+Targeting-Wheel         5
+
+Ping-Target             H
+Ping-Acknowledge        B 
+
+
+////////////////////////
+// Menus and  Interface
+
+Loadout-Show            TAB
+Chat-Visibility         I 
+Menu                    ESC
+Mouse-Recenter          X
+
+////////////////////////
+// Modifier Keys
+
+Mod-key                 LCTL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
